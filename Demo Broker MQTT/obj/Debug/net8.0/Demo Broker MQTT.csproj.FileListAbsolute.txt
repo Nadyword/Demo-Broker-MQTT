@@ -1,0 +1,29 @@
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\Demo Broker MQTT.exe
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\Demo Broker MQTT.dll.config
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\Demo Broker MQTT.deps.json
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\Demo Broker MQTT.runtimeconfig.json
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\Demo Broker MQTT.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\Demo Broker MQTT.pdb
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\Demo Broker MQTT.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\Demo Broker MQTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\Demo Broker MQTT.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\Demo Broker MQTT.AssemblyInfo.cs
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\Demo Broker MQTT.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\Demo Bro.6AC5A825.Up2Date
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\Demo Broker MQTT.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\refint\Demo Broker MQTT.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\Demo Broker MQTT.pdb
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\Demo Broker MQTT.genruntimeconfig.cache
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\ref\Demo Broker MQTT.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
