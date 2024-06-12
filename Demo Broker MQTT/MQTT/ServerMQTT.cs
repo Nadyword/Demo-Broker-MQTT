@@ -16,7 +16,7 @@ internal class ServerMQTT
 
         MqttServer _serverM;//-------------------------------------------------------------------------------------->Server Instruction
         Services _service = new();//------------------------------------------------------------------------------------------>Logic of service
-        Auditoria? auditoria;
+        Auditoria auditoria = new();
 
         //Parametros de configuracion del servidor
         string _userBroker = ConfigurationManager.AppSettings["UserBroker"] ?? "";
@@ -38,24 +38,34 @@ internal class ServerMQTT
             //Subscribe to the event to validate username and password
             _serverM.ValidatingConnectionAsync += e =>
                     {
+                        Console.WriteLine("Se conecto: " + e.ClientId);
                         //TODO: crear un metodo que guarda las conecciones al broker
-                        Console.WriteLine($"Intento de conexión de: {e.ClientId}");
                         if (e.UserName != _userBroker || e.Password != _passBroker)
                         {
                             e.ReasonCode = MqttConnectReasonCode.BadUserNameOrPassword;
+                        }
+                        else 
+                        {
+                            Task task = auditoria.SalveConection(e.ClientId);
                         }
 
                         return Task.CompletedTask;
                     };
 
             //Procedure of message client
-            _serverM.InterceptingPublishAsync += async e =>
-            {
+            _serverM.InterceptingPublishAsync += e => {
                 RequestClient solicitud = new(Encoding.UTF8.GetString(e.ApplicationMessage.PayloadSegment), e.ClientId, e.ApplicationMessage.Topic);
                 _service.Request = solicitud;
                 auditoria = new(solicitud, _service.ProcedureRequest());
 
+                //Pruebas
+                Console.WriteLine("Topic: " + solicitud.Topic);
+                Console.WriteLine("Mensaje: " + solicitud.Message);
+
+                //
+
                 Task task = auditoria.SalveRegistration();
+                return Task.CompletedTask;
             };
 
 

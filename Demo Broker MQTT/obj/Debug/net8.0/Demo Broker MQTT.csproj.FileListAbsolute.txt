@@ -27,3 +27,4 @@ C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\r
 C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
 C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\samue\source\repos\Demo Broker MQTT\Demo Broker MQTT\obj\Debug\net8.0\Demo Broker MQTT.sourcelink.json

@@ -47,4 +47,16 @@ public class SqlServer
         await ExecuteStoredProcedureAsync(parameters);
 
     }
+
+    protected async Task SetConexionesAsync(string IdClient)
+    {
+        _storedProcedureName = "set_Conexiones";
+        SqlParameter[] parameters =
+        [
+                new SqlParameter("@IdClient", SqlDbType.NVarChar) { Value = IdClient }
+            ];
+
+        await ExecuteStoredProcedureAsync(parameters);
+
+    }
 }

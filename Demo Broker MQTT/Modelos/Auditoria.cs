@@ -2,11 +2,22 @@
 
 namespace Demo_Broker_MQTT.Modelos;
 
-internal class Auditoria(RequestClient requestCient, uint resul) : SqlServer
+internal class Auditoria : SqlServer
 {
+    private RequestClient RequestCient { get; set; }
+    private uint Resul { get; set; }
 
-    public async Task SalveRegistration()
-    {
-        await SetSalvarRequesAsync(requestCient, resul);
+    public Auditoria()
+    { 
+        
     }
+    public Auditoria(RequestClient requestCient, uint resul)
+    {
+        RequestCient = requestCient;
+        Resul = resul;
+    }
+
+    public async Task SalveRegistration() => await SetSalvarRequesAsync(RequestCient, Resul);
+    
+    public async Task SalveConection(string idClient) => await SetConexionesAsync(idClient);
 }

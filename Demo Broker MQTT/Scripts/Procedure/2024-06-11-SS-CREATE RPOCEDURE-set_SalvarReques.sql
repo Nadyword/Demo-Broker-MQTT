@@ -1,7 +1,7 @@
 /* =========================================
-* Descrip: 
+* Descrip:	Auditoria de las peticiones de los clientes
 * Author :  SAMUEL SANCHEZ
-* Cre.	 : 07-06-24
+* Cre.	 :	11-06-24
 * ========================================= */ 
 IF EXISTS (SELECT * FROM SYS.objects WHERE OBJECT_ID = OBJECT_ID(N'set_SalvarReques') AND TYPE IN (N'P', N'PC'))
 
