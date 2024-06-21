@@ -12,7 +12,7 @@ internal class Services()
 
         if (ValidateRequest())
         {
-            Console.WriteLine("Se proceso la solicitud");
+            //Console.WriteLine("Se proceso la solicitud");
             return 200;
         }
         return 400;
