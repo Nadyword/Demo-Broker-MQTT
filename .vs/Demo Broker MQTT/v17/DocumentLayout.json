@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|c:\\users\\samue\\source\\repos\\demo broker mqtt\\demo broker mqtt\\dababase\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|solutionrelative:demo broker mqtt\\dababase\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|c:\\users\\samue\\source\\repos\\demo broker mqtt\\demo broker mqtt\\mqtt\\servermqtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|solutionrelative:demo broker mqtt\\mqtt\\servermqtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|c:\\users\\samue\\source\\repos\\demo broker mqtt\\demo broker mqtt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|solutionrelative:demo broker mqtt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|c:\\users\\samue\\source\\repos\\demo broker mqtt\\demo broker mqtt\\logic\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|solutionrelative:demo broker mqtt\\logic\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|c:\\users\\samue\\source\\repos\\demo broker mqtt\\demo broker mqtt\\modelos\\requestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|solutionrelative:demo broker mqtt\\modelos\\requestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|c:\\users\\samue\\source\\repos\\demo broker mqtt\\demo broker mqtt\\dababase\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|solutionrelative:demo broker mqtt\\dababase\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|c:\\users\\samue\\source\\repos\\demo broker mqtt\\demo broker mqtt\\modelos\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|c:\\users\\samue\\source\\repos\\demo broker mqtt\\demo broker mqtt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|solutionrelative:demo broker mqtt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|c:\\users\\samue\\source\\repos\\demo broker mqtt\\demo broker mqtt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|solutionrelative:demo broker mqtt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|c:\\users\\samue\\source\\repos\\demo broker mqtt\\demo broker mqtt\\modelos\\requestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A790EDF-55AC-4AA1-9C93-2390BDFB6338}|Demo Broker MQTT\\Demo Broker MQTT.csproj|solutionrelative:demo broker mqtt\\modelos\\requestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,19 +51,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ServerMQTT.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\Demo Broker MQTT\\MQTT\\ServerMQTT.cs",
+              "RelativeDocumentMoniker": "Demo Broker MQTT\\MQTT\\ServerMQTT.cs",
+              "ToolTip": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\Demo Broker MQTT\\MQTT\\ServerMQTT.cs",
+              "RelativeToolTip": "Demo Broker MQTT\\MQTT\\ServerMQTT.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:19:54.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SqlServer.cs",
               "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\Demo Broker MQTT\\DabaBase\\SqlServer.cs",
               "RelativeDocumentMoniker": "Demo Broker MQTT\\DabaBase\\SqlServer.cs",
               "ToolTip": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\Demo Broker MQTT\\DabaBase\\SqlServer.cs",
               "RelativeToolTip": "Demo Broker MQTT\\DabaBase\\SqlServer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAArAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T03:03:17.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T03:03:17.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Auditoria.cs",
               "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\Demo Broker MQTT\\Modelos\\Auditoria.cs",
               "RelativeDocumentMoniker": "Demo Broker MQTT\\Modelos\\Auditoria.cs",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Services.cs",
               "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\Demo Broker MQTT\\Logic\\Services.cs",
               "RelativeDocumentMoniker": "Demo Broker MQTT\\Logic\\Services.cs",
@@ -83,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "RequestClient.cs",
               "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\Demo Broker MQTT\\Modelos\\RequestClient.cs",
               "RelativeDocumentMoniker": "Demo Broker MQTT\\Modelos\\RequestClient.cs",
@@ -95,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\Demo Broker MQTT\\App.config",
               "RelativeDocumentMoniker": "Demo Broker MQTT\\App.config",
@@ -107,15 +123,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\Demo Broker MQTT\\Program.cs",
               "RelativeDocumentMoniker": "Demo Broker MQTT\\Program.cs",
               "ToolTip": "C:\\Users\\samue\\source\\repos\\Demo Broker MQTT\\Demo Broker MQTT\\Program.cs",
               "RelativeToolTip": "Demo Broker MQTT\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:04:47.052Z"
+              "WhenOpened": "2024-06-09T16:04:47.052Z",
+              "EditorCaption": ""
             }
           ]
         }

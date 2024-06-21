@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Demo Broker MQTT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0e724920b9b888f78240a6d6be680f4d438e5f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18e37fd3f66d2f4b4031d71cfc943e1b6e84062f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Demo Broker MQTT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Demo Broker MQTT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
